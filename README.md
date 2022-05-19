@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **❤️🐈 & ❤️🏋️**
 
-![luciouskami's GitHub stats](https://github-readme-stats.vercel.app/api?username=luciouskami&count_private=true&show_icons=true&theme=tokyonight)
+![luciouskami's GitHub stats](https://github-readme-stats.vercel.app/api?username=luciouskami&count_private=true&hide=commits&show_icons=true&theme=tokyonight)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luciouskami&layout=compact&theme=tokyonight)](https://github.com/luciouskami/github-readme-stats)
