@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm luciouskami 🎉</h1>
 <h3 align="center">Here is where I record myself. 👨‍💻</h3>
 
 - 🔭 I’m currently working on **fun 🤭**
